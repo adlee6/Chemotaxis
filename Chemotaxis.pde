@@ -35,8 +35,6 @@ void draw() {
   john[i].y=10000000;
   }
   }
-  fill(0, 0, 0);
-  text("("+mouseX+","+mouseY+")", mouseX, mouseY);
 }
 
 void Drink() {
